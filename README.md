@@ -10,3 +10,9 @@ https://github.com/jimpames/Mapping-Quantum-Physics-to-Computing/blob/main/Mappi
 
 python toy:
 https://github.com/jimpames/Mapping-Quantum-Physics-to-Computing/blob/main/holographic_engine_toy_v6.py
+
+
+report: toy design, analysis, results and conclusions
+
+https://github.com/jimpames/Mapping-Quantum-Physics-to-Computing/blob/main/toy_report.pdf
+
