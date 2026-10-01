@@ -9,10 +9,10 @@ paper
 https://github.com/jimpames/Mapping-Quantum-Physics-to-Computing/blob/main/Mapping%20Quantum%20Physics%20to%20Computing.pdf
 
 python toy:
-https://github.com/jimpames/Mapping-Quantum-Physics-to-Computing/blob/main/holographic_engine_toy_v6.py
+
+https://github.com/jimpames/Mapping-Quantum-Physics-to-Computing/blob/main/holographic_engine_toy_v9.py
 
 
 report: toy design, analysis, results and conclusions
 
-https://github.com/jimpames/Mapping-Quantum-Physics-to-Computing/blob/main/toy_report.pdf
-
+https://github.com/jimpames/Mapping-Quantum-Physics-to-Computing/blob/main/emergent-spacetime-report-v2.pdf
