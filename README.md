@@ -43,6 +43,7 @@ https://github.com/jimpames/Mapping-Quantum-Physics-to-Computing/blob/main/emerg
 
 resolving quantum paradoxes
 
+<img width="809" height="588" alt="resolving-QP-paradox" src="https://github.com/user-attachments/assets/fef666c5-5194-4fe8-bad9-929f434950b2" />
 https://github.com/jimpames/Mapping-Quantum-Physics-to-Computing/blob/main/resolving-quantum-paradoxes.pdf
 
 visuals 
