@@ -62,4 +62,4 @@ https://github.com/jimpames/Mapping-Quantum-Physics-to-Computing/blob/main/spect
 https://github.com/jimpames/Mapping-Quantum-Physics-to-Computing/blob/main/quark_confinement_energy_curve.png
 
 <img width="5360" height="1622" alt="protein_folding_mera_rendering_graph" src="https://github.com/user-attachments/assets/c0d1f9b1-f128-46ff-8085-fc6a23eb27e0" />
-
+https://github.com/jimpames/Mapping-Quantum-Physics-to-Computing/blob/main/protein_folding_mera_rendering_graph.png
