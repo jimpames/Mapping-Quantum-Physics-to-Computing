@@ -15,7 +15,7 @@ see updates below
 
 python toy version 13:
 
-https://github.com/jimpames/Mapping-Quantum-Physics-to-Computing/blob/main/holographic_engine_toy_v13.py
+https://github.com/jimpames/Mapping-Quantum-Physics-to-Computing/blob/main/holographic_engine_toy_v18.py
 
 
 report: toy design, analysis, results and conclusions
