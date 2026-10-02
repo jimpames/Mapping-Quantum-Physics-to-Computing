@@ -41,6 +41,12 @@ https://github.com/jimpames/Mapping-Quantum-Physics-to-Computing/blob/main/emerg
 <img width="829" height="694" alt="toy-report-v6" src="https://github.com/user-attachments/assets/2d0b955c-21e1-46ca-939c-84192cdc7d6a" />
 https://github.com/jimpames/Mapping-Quantum-Physics-to-Computing/blob/main/emergent-spacetime-report-v6.pdf
 
+<img width="664" height="581" alt="image" src="https://github.com/user-attachments/assets/cd0fe26d-9217-4bf8-8e56-dbd29ff440c4" />
+https://github.com/jimpames/Mapping-Quantum-Physics-to-Computing/blob/main/emergent-spacetime-report-v7.pdf
+
+<img width="722" height="616" alt="image" src="https://github.com/user-attachments/assets/5ddb783d-be69-48aa-bccf-85eba82fd361" />
+https://github.com/jimpames/Mapping-Quantum-Physics-to-Computing/blob/main/emergent-spacetime-report-v8.pdf
+
 
 resolving quantum paradoxes
 
@@ -63,3 +69,9 @@ https://github.com/jimpames/Mapping-Quantum-Physics-to-Computing/blob/main/quark
 
 <img width="5360" height="1622" alt="protein_folding_mera_rendering_graph" src="https://github.com/user-attachments/assets/c0d1f9b1-f128-46ff-8085-fc6a23eb27e0" />
 https://github.com/jimpames/Mapping-Quantum-Physics-to-Computing/blob/main/protein_folding_mera_rendering_graph.png
+
+<img width="4469" height="1770" alt="mera_fractal_protein_folding_graph" src="https://github.com/user-attachments/assets/34337151-a63b-48dc-8ab4-985d397bdeb6" />
+https://github.com/jimpames/Mapping-Quantum-Physics-to-Computing/blob/main/mera_fractal_protein_folding_graph.png
+
+<img width="2752" height="1536" alt="Biological_Wetware_Holography_Framework_Infographic" src="https://github.com/user-attachments/assets/ed1e86ce-4f4b-41ec-b945-51f538bfffcf" />
+https://github.com/jimpames/Mapping-Quantum-Physics-to-Computing/blob/main/Biological_Wetware_Holography_Framework_Infographic.png
