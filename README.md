@@ -48,10 +48,14 @@ https://github.com/jimpames/Mapping-Quantum-Physics-to-Computing/blob/main/resol
 
 visuals 
 
+<img width="2232" height="1801" alt="simulation_testbeds_dashboard" src="https://github.com/user-attachments/assets/f3f18adf-ff74-4ce5-a7af-0599df4b5430" />
 https://github.com/jimpames/Mapping-Quantum-Physics-to-Computing/blob/main/simulation_testbeds_dashboard.png
 
+<img width="2330" height="862" alt="water_phase_transitions_graph" src="https://github.com/user-attachments/assets/e25719fa-1d2a-4769-ba36-81c1132b6233" />
 https://github.com/jimpames/Mapping-Quantum-Physics-to-Computing/blob/main/water_phase_transitions_graph.png
 
+<img width="1756" height="855" alt="spectroscopic_telemetry_graph" src="https://github.com/user-attachments/assets/8b5a0cc9-f7cb-4a07-ae63-9b32255ebcf1" />
 https://github.com/jimpames/Mapping-Quantum-Physics-to-Computing/blob/main/spectroscopic_telemetry_graph.png
 
+<img width="1455" height="886" alt="quark_confinement_energy_curve" src="https://github.com/user-attachments/assets/96ebb74d-e647-4bd2-99c6-82f2384122d0" />
 https://github.com/jimpames/Mapping-Quantum-Physics-to-Computing/blob/main/quark_confinement_energy_curve.png
