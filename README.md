@@ -97,6 +97,8 @@ https://github.com/jimpames/Mapping-Quantum-Physics-to-Computing/blob/main/evolu
 
 
 visual summary:
+
+<img width="1133" height="595" alt="image" src="https://github.com/user-attachments/assets/2687d95a-f4db-407a-9d20-f71f97d7cc64" />
 https://github.com/jimpames/Mapping-Quantum-Physics-to-Computing/blob/main/Holographic_IDE.pdf
 
 
