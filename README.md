@@ -12,7 +12,7 @@ https://github.com/jimpames/Mapping-Quantum-Physics-to-Computing/blob/main/Mappi
 
 see updates below
 
-python toy:
+python toy version 12:
 
 https://github.com/jimpames/Mapping-Quantum-Physics-to-Computing/blob/main/holographic_engine_toy_v12.py
 
