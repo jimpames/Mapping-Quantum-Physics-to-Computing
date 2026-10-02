@@ -33,3 +33,4 @@ https://github.com/jimpames/Mapping-Quantum-Physics-to-Computing/blob/main/water
 
 https://github.com/jimpames/Mapping-Quantum-Physics-to-Computing/blob/main/spectroscopic_telemetry_graph.png
 
+https://github.com/jimpames/Mapping-Quantum-Physics-to-Computing/blob/main/quark_confinement_energy_curve.png
