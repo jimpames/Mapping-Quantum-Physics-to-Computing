@@ -96,5 +96,8 @@ https://github.com/jimpames/Mapping-Quantum-Physics-to-Computing/blob/main/entro
 https://github.com/jimpames/Mapping-Quantum-Physics-to-Computing/blob/main/evolutionary_mera_tax_optimization_graph.png
 
 
+visual summary:
+https://github.com/jimpames/Mapping-Quantum-Physics-to-Computing/blob/main/Holographic_IDE.pdf
+
 
 
