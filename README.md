@@ -8,6 +8,10 @@ paper
 
 https://github.com/jimpames/Mapping-Quantum-Physics-to-Computing/blob/main/Mapping%20Quantum%20Physics%20to%20Computing.pdf
 
+1 oct 26
+
+see updates below
+
 python toy:
 
 https://github.com/jimpames/Mapping-Quantum-Physics-to-Computing/blob/main/holographic_engine_toy_v12.py
