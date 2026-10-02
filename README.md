@@ -15,3 +15,9 @@ https://github.com/jimpames/Mapping-Quantum-Physics-to-Computing/blob/main/holog
 report: toy design, analysis, results and conclusions
 
 https://github.com/jimpames/Mapping-Quantum-Physics-to-Computing/blob/main/emergent-spacetime-report-v4.pdf
+
+
+resolving quantum paradoxes
+
+https://github.com/jimpames/Mapping-Quantum-Physics-to-Computing/blob/main/resolving-quantum-paradoxes.pdf
+
