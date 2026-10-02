@@ -6,6 +6,7 @@ https://youtu.be/e6gWGuwAfWo?si=BGBgqVCGznl_9KR4
 
 paper
 
+<img width="892" height="658" alt="spacetime-abstract" src="https://github.com/user-attachments/assets/90b3af88-eec8-405d-862d-51e85795b2cc" />
 https://github.com/jimpames/Mapping-Quantum-Physics-to-Computing/blob/main/Mapping%20Quantum%20Physics%20to%20Computing.pdf
 
 1 oct 26
