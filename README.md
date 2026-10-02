@@ -60,6 +60,16 @@ https://github.com/jimpames/Mapping-Quantum-Physics-to-Computing/blob/main/emerg
 <img width="722" height="616" alt="image" src="https://github.com/user-attachments/assets/5ddb783d-be69-48aa-bccf-85eba82fd361" />
 https://github.com/jimpames/Mapping-Quantum-Physics-to-Computing/blob/main/emergent-spacetime-report-v8.pdf
 
+<img width="689" height="632" alt="image" src="https://github.com/user-attachments/assets/8714e413-fd52-4ea9-913d-ca2d5da0a022" />
+https://github.com/jimpames/Mapping-Quantum-Physics-to-Computing/blob/main/emergent-spacetime-report-v9.pdf
+
+<img width="730" height="712" alt="image" src="https://github.com/user-attachments/assets/2a7cec6e-b039-470a-ae89-b41c4952fb17" />
+https://github.com/jimpames/Mapping-Quantum-Physics-to-Computing/blob/main/emergent-spacetime-report-v10.pdf
+
+<img width="696" height="610" alt="image" src="https://github.com/user-attachments/assets/da0cdc22-68e7-4a6b-ad6c-155be282e800" />
+https://github.com/jimpames/Mapping-Quantum-Physics-to-Computing/blob/main/emergent-spacetime-report-v11.pdf
+
+
 
 resolving quantum paradoxes
 
@@ -100,6 +110,12 @@ visual summary:
 
 <img width="1133" height="595" alt="image" src="https://github.com/user-attachments/assets/2687d95a-f4db-407a-9d20-f71f97d7cc64" />
 https://github.com/jimpames/Mapping-Quantum-Physics-to-Computing/blob/main/Holographic_IDE.pdf
+
+
+conference-abstract:
+
+<img width="722" height="800" alt="image" src="https://github.com/user-attachments/assets/15592377-967f-4a49-b56c-7f2801f423d5" />
+https://github.com/jimpames/Mapping-Quantum-Physics-to-Computing/blob/main/conference-abstract.pdf
 
 
 
