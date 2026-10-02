@@ -88,3 +88,13 @@ https://github.com/jimpames/Mapping-Quantum-Physics-to-Computing/blob/main/mera_
 
 <img width="2752" height="1536" alt="Biological_Wetware_Holography_Framework_Infographic" src="https://github.com/user-attachments/assets/ed1e86ce-4f4b-41ec-b945-51f538bfffcf" />
 https://github.com/jimpames/Mapping-Quantum-Physics-to-Computing/blob/main/Biological_Wetware_Holography_Framework_Infographic.png
+
+<img width="2203" height="909" alt="entropic_gravity_tax_gradient_graph" src="https://github.com/user-attachments/assets/288578f1-0b96-41e1-a8ad-0cf2f51c3c90" />
+https://github.com/jimpames/Mapping-Quantum-Physics-to-Computing/blob/main/entropic_gravity_tax_gradient_graph.png
+
+<img width="1808" height="1410" alt="evolutionary_mera_tax_optimization_graph" src="https://github.com/user-attachments/assets/15136f9b-4268-41b5-b8cd-05809cfd4ede" />
+https://github.com/jimpames/Mapping-Quantum-Physics-to-Computing/blob/main/evolutionary_mera_tax_optimization_graph.png
+
+
+
+
