@@ -13,9 +13,22 @@ https://github.com/jimpames/Mapping-Quantum-Physics-to-Computing/blob/main/Mappi
 
 see updates below
 
-python toy version 13:
+python toy 20:
 
-https://github.com/jimpames/Mapping-Quantum-Physics-to-Computing/blob/main/holographic_engine_toy_v18.py
+source code:
+https://github.com/jimpames/Mapping-Quantum-Physics-to-Computing/blob/main/holographic_engine_toy_v20.py
+
+
+readme for source code 18:
+
+<img width="1096" height="567" alt="image" src="https://github.com/user-attachments/assets/f35e6a54-63c8-47bf-b203-a4c7fb2d95fb" />
+https://github.com/jimpames/Mapping-Quantum-Physics-to-Computing/blob/main/README%20holographic_engine_toy_v18.py.md
+
+readme for source code 19/20:
+
+<img width="1074" height="601" alt="image" src="https://github.com/user-attachments/assets/d3fa43c6-b478-4b54-843f-6bd22a5fb200" />
+https://github.com/jimpames/Mapping-Quantum-Physics-to-Computing/blob/main/README%20holographic_engine_toy_v19%20v20.py.md
+
 
 
 report: toy design, analysis, results and conclusions
