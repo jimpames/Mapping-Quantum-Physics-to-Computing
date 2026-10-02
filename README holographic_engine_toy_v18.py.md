@@ -30,9 +30,12 @@ By mapping abstract computer science primitives directly onto intractable quantu
 | **Rest Mass ($m$)** | 2D Projection Update Tax | Dynamic update functional $C[B_n]$ required to sustain 3D spatial field distortions |
 | **Quark Confinement** | Runtime Exception Handler | Intercepts naked color charge state faults via hadronization pair creation ($E = 2mc^2$) |
 | **Quantum Entanglement** | Shared Memory Pointers | Non-local correlations resolved at localized boundary memory addresses (`0x7F_BOUND_MEM`) |
-| **Wavefunction Collapse** | Lazy Eval $ightarrow$ Procedural Rasterization | Low-overhead probability clouds ($0.01	ext{ KB}$) collapsed upon measurement ($1.00	ext{ KB}$) |
+| **Wavefunction Collapse** | Lazy Eval $
+ightarrow$ Procedural Rasterization | Low-overhead probability clouds ($0.01	ext{ KB}$) collapsed upon measurement ($1.00	ext{ KB}$) |
 | **BEC Superfluidity** | Batch Pointer Aggregation | Thermal interrupts fall to zero at $T < T_c$; $N_0$ pointers collapse into `0x00_BEC_GROUND_STATE` |
-| **$	ext{H}_2	ext{O}$ Phase Changes** | Data Structure Re-Allocation | Solid Ice (Struct Lock) $ightarrow$ Liquid (Dynamic Linked Graph) $ightarrow$ Steam (Multi-Threading) |
+| **$	ext{H}_2	ext{O}$ Phase Changes** | Data Structure Re-Allocation | Solid Ice (Struct Lock) $
+ightarrow$ Liquid (Dynamic Linked Graph) $
+ightarrow$ Steam (Multi-Threading) |
 | **Laminar vs. Turbulence** | SIMD Pipeline vs. Thread Branching | Parallel array shifts ($Re < 2300$) vs. chaotic vorticity sub-thread cascades ($Re > 2300$) |
 | **DNA & Protein Folding** | 2D-to-3D Wetware Compiler | Linear quaternary code (`A,C,T,G`) compiled via free-energy / MERA tax minimization |
 
@@ -80,7 +83,8 @@ Living organisms act as localized, active wetware rendering engines that compile
 | **3. Sub-mm Yukawa Gravity** | Separation $r = 50.0\,\mu	ext{m}$ | $+8.21\%$ enhancement | Non-Newtonian boundary entropy cutoff |
 | **4. GPS Satellite Offset** | $20,200	ext{ km}$ orbit ($v=3,873	ext{ m/s}$) | Net $+38.51\,\mu	ext{s/day}$ | Pre-compensated by $10.22999999544	ext{ MHz}$ master clock |
 | **5. BEC Rendering Tax** | $10^6$ Rubidium-87 at $20	ext{ nK}$ | $+99.83\%$ tax reduction | Batch Pointer Aggregation (`0x00_BEC_GROUND_STATE`) |
-| **6. Protein Folding Tax** | $104$-residue amino acid chain | $+91.78\%$ tax reduction | Unfolded ($15,444	ext{ tax}$) $ightarrow$ Folded ($1,268.8	ext{ tax}$) |
+| **6. Protein Folding Tax** | $104$-residue amino acid chain | $+91.78\%$ tax reduction | Unfolded ($15,444	ext{ tax}$) $
+ightarrow$ Folded ($1,268.8	ext{ tax}$) |
 
 ---
 
