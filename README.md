@@ -25,3 +25,11 @@ resolving quantum paradoxes
 
 https://github.com/jimpames/Mapping-Quantum-Physics-to-Computing/blob/main/resolving-quantum-paradoxes.pdf
 
+visuals 
+
+https://github.com/jimpames/Mapping-Quantum-Physics-to-Computing/blob/main/simulation_testbeds_dashboard.png
+
+https://github.com/jimpames/Mapping-Quantum-Physics-to-Computing/blob/main/water_phase_transitions_graph.png
+
+https://github.com/jimpames/Mapping-Quantum-Physics-to-Computing/blob/main/spectroscopic_telemetry_graph.png
+
