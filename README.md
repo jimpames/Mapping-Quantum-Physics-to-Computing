@@ -12,9 +12,9 @@ https://github.com/jimpames/Mapping-Quantum-Physics-to-Computing/blob/main/Mappi
 
 see updates below
 
-python toy version 12:
+python toy version 13:
 
-https://github.com/jimpames/Mapping-Quantum-Physics-to-Computing/blob/main/holographic_engine_toy_v12.py
+https://github.com/jimpames/Mapping-Quantum-Physics-to-Computing/blob/main/holographic_engine_toy_v13.py
 
 
 report: toy design, analysis, results and conclusions
@@ -26,6 +26,10 @@ https://github.com/jimpames/Mapping-Quantum-Physics-to-Computing/blob/main/emerg
 https://github.com/jimpames/Mapping-Quantum-Physics-to-Computing/blob/main/emergent-spacetime-report-v3.pdf
 
 https://github.com/jimpames/Mapping-Quantum-Physics-to-Computing/blob/main/emergent-spacetime-report-v4.pdf
+
+https://github.com/jimpames/Mapping-Quantum-Physics-to-Computing/blob/main/emergent-spacetime-report-v5.pdf
+
+https://github.com/jimpames/Mapping-Quantum-Physics-to-Computing/blob/main/emergent-spacetime-report-v6.pdf
 
 
 resolving quantum paradoxes
