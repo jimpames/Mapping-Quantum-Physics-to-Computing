@@ -137,3 +137,53 @@ pip install numpy matplotlib
 
 # Run the simulation engine
 python holographic_engine_toy_v20.py
+
+The engine outputs:
+
+Boundary state evolution across clock ticks
+
+Rendering tax decomposition (hadronic dynamic / leptonic static)
+
+Quantum entanglement pointer behavior
+
+Lazy evaluation trigger events
+
+Quantitative test bed predictions
+
+AI Collaboration
+This project was developed with substantial assistance from multiple AI research collaborators. Their contributions spanned mathematical formalization, literature synthesis, code generation, and LaTeX validation.
+
+Contributor	Primary Role
+Jim P. Ames	Primary author, research direction, epistemic framework
+Gemini	Framework extensions, Python engine, technical reports
+DeepSeek	Formalization, LaTeX correction, peer-review feedback
+Claude	LaTeX compilation, structural review
+CoPilot	Drafting (early revisions)
+ChatGPT	Drafting (early revisions)
+The human author maintained final editorial control and epistemic discipline throughout. See the paper's Acknowledgments section for the formal statement.
+
+Citation
+If you reference this work, please cite the primary paper:
+
+bibtex
+@misc{ames2026emergent,
+  title={The Emergent Spacetime Rendering Engine: A Systems-Theoretic Interpretation of Holographic Projection, Planck-Scale Quantization, and Quantum Confinement},
+  author={Ames, Jim P.},
+  year={2026},
+  note={Independent Research Initiative},
+  howpublished={\url{https://github.com/jimpames/Mapping-Quantum-Physics-to-Computing}}
+}
+License
+Paper and reports: CC BY 4.0
+
+Code: MIT License
+
+Contact
+Jim P. Ames — Independent Researcher
+Email: jimpames@gmail.com
+Location: Newburgh, NY
+
+Acknowledgments
+The author gratefully acknowledges AI research assistance from Gemini, DeepSeek, Claude, CoPilot, and ChatGPT for mathematical formalization, literature synthesis, LaTeX validation, and peer-review feedback.
+
+This is an exploratory research program. It is offered in the spirit of rigorous speculation — the same spirit in which foundational physics has always advanced.
