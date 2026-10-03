@@ -227,6 +227,7 @@ DeepSeek	Formalization, LaTeX correction, README architecture, peer-review feedb
 Claude	LaTeX compilation, structural review
 CoPilot	Drafting (early revisions)
 ChatGPT	Drafting (early revisions)
+GROK	Theory 
 The human author maintained final editorial control and epistemic discipline throughout. See the paper's Acknowledgments section for the formal statement.
 
 Citation
